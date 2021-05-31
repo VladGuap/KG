@@ -1,0 +1,50 @@
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe.config
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.pdb
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.dll
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.pdb
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.xml
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.pdb
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csprojAssemblyReference.cache
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Form1.resources
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Properties.Resources.resources
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.GenerateResource.cache
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.CopyComplete
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.exe
+D:\PROJECT\tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.pdb
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe.config
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.pdb
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csprojAssemblyReference.cache
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Form1.resources
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Properties.Resources.resources
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.GenerateResource.cache
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.CoreCompileInputs.cache
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.CopyComplete
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.exe
+C:\Users\ntrrp\Desktop\labs\Томография Ковалёв\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.pdb
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe.config
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.exe
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\tomogram_visualizer.pdb
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csprojAssemblyReference.cache
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Form1.resources
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.Properties.Resources.resources
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.GenerateResource.cache
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.CoreCompileInputs.cache
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.csproj.CopyComplete
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.exe
+C:\Users\89303\Downloads\labs-32384d567d54f9b847ef2806e46e08836f56bb7e\Tomogram_visualizer\tomogram_visualizer\obj\Debug\tomogram_visualizer.pdb

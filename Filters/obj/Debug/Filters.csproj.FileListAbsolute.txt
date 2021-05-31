@@ -1,0 +1,21 @@
+D:\PROJECT\Filters\Filters\bin\Debug\Filters.exe.config
+D:\PROJECT\Filters\Filters\bin\Debug\Filters.exe
+D:\PROJECT\Filters\Filters\bin\Debug\Filters.pdb
+D:\PROJECT\Filters\Filters\obj\Debug\Filters.csprojAssemblyReference.cache
+D:\PROJECT\Filters\Filters\obj\Debug\Filters.Form1.resources
+D:\PROJECT\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+D:\PROJECT\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.cache
+D:\PROJECT\Filters\Filters\obj\Debug\Filters.exe
+D:\PROJECT\Filters\Filters\obj\Debug\Filters.pdb
+D:\PROJECT\Filters\Filters\obj\Debug\Filters.MathMorphKernelEditor.resources
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\bin\Debug\Filters.exe.config
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\bin\Debug\Filters.exe
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\bin\Debug\Filters.pdb
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.csprojAssemblyReference.cache
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.Form1.resources
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.MathMorphKernelEditor.resources
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.cache
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.csproj.CoreCompileInputs.cache
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.exe
+C:\Users\ntrrp\Desktop\Моё  и не очень\Filters\Filters\obj\Debug\Filters.pdb
